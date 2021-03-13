@@ -1,0 +1,26 @@
+// Sequence
+// Selection - Array, ArrayLists, instance variables, class variables
+// Iteration(Looping) - Enhanced for loops, while loops, do while loops.
+// Java Primitive Datatypes
+// Java Advanced Datatypes (W3Schools)
+
+
+// OOP 4 pillars of Object orientated programming
+// Navigation
+
+ls
+cd
+pwd
+
+// Management
+
+mkdir
+rmdir
+touch
+rm
+rm -rf
+
+// Utillities
+
+cp
+mv

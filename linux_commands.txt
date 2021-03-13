@@ -1,0 +1,18 @@
+// Navigation
+
+ls
+cd
+pwd
+
+// Management
+
+mkdir
+rmdir
+touch
+rm
+rm -rf
+
+// Utillities
+
+cp
+mv
