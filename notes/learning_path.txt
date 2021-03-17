@@ -1,0 +1,15 @@
+Week 1:
+	4 Pillars of OOP - 3 days
+        Source control management, git - 1 day
+        Binary and Memory - 1 day
+        Basic computer concepts - Web development - 1 day
+        Excercises - 3 days
+Week 2:
+        Spring boot(TODO app) - 3 days
+        Maven - 2 day
+        Java packages - 3 days
+        Excercises - 3 days
+
+Week 3:
+        Training Project - 3 days
+        Excercises - 3 days

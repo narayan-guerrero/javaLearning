@@ -1,13 +1,18 @@
 public class Animal{
-    String name;
-    public Animal(String name){
-        this.name = name;
-        System.out.println(this.name);
-    }
-
-    public String getName(){
-	System.out.println("Hello I am " + this.name);
-        return name;
-    }
+   private String name;
+   public Animal(String name){
+      this.name = name;
+   }
+   public String getName(){
+      return this.name; 
+   }
+   public void setName(String newName){
+      if (newName == "Gohan") {
+          System.out.println("No I dont like that name");
+          return;
+      }
+      this.name = newName;
+  }
 }
 
+// Animal bear = new Animal('Teddy');
